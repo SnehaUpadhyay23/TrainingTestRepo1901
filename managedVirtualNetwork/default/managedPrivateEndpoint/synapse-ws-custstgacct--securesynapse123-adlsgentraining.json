@@ -1,0 +1,7 @@
+{
+	"name": "synapse-ws-custstgacct--securesynapse123-adlsgentraining",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/cceb3f03-67ab-4927-bcb3-b1b0dd5aab4e/resourceGroups/Day4RG/providers/Microsoft.Storage/storageAccounts/adlsgentraining",
+		"groupId": "dfs"
+	}
+}

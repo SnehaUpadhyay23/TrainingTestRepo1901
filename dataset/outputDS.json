@@ -1,0 +1,18 @@
+{
+	"name": "outputDS",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "adlsLSsynapse",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Binary",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobFSLocation",
+				"fileSystem": "ouput"
+			}
+		}
+	},
+	"type": "Microsoft.Synapse/workspaces/datasets"
+}
